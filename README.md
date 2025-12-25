@@ -154,12 +154,13 @@ The following figures are generated in the notebook and will be added to this RE
    <img width="699" height="754" alt="image" src="https://github.com/user-attachments/assets/715f7ada-e5b6-4328-aab4-1ee337e19c2a" />
 
 2. **Confusion Matrix (Test Set)**
+
    <img width="630" height="519" alt="image" src="https://github.com/user-attachments/assets/050ae61b-e59d-4a84-8660-6921590d0aae" />
  
-3. **10 Correct Predictions (Test Set)**
+4. **10 Correct Predictions (Test Set)**
    <img width="1424" height="607" alt="image" src="https://github.com/user-attachments/assets/5a043178-3678-4931-ab61-24e549467de3" />
 
-4. **3 Incorrect Predictions (Test Set)**
+5. **3 Incorrect Predictions (Test Set)**
    <img width="1131" height="421" alt="image" src="https://github.com/user-attachments/assets/440ae35d-84bd-4b3d-8fe1-bf7e2b1b4465" />
 
 7. **Predictions on 10 Custom Images with Confidence**
@@ -182,4 +183,5 @@ The following figures are generated in the notebook and will be added to this RE
 Install dependencies:
 ```bash
 pip install torch torchvision scikit-learn matplotlib pillow
+
 
